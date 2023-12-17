@@ -1,0 +1,13 @@
+=====start
+This is a challenging "non-Hello World" exercise that does not provide a solution.  So you are done when it works within the constraints given.
+
+https://www2.cs.sfu.ca/~wsumner/teaching/373/exercise-cmake.html
+
+=====To Run
+At the command line (I developed on a Mac) issue the command "source @go"
+
+=====challenges
+This exercise made me think more carefully about include directories and generator expressions.  
+
+=====refining
+This repo starts from something that "just finally works" and is refined in GitHub.
